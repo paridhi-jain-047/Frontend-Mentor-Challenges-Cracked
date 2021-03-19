@@ -18,6 +18,6 @@ and you are done.
 3. <b>Huddle landing page with a single introductory section.</b>
 4. <b>Base Apparel coming soon page.</b>
 5. <b>Intro page with sign up form</b>
-6. <b>Coding Bootcamp Testimonial</b>
+6. <b>Coding Bootcamp Testimonial Slider Master</b>
 
 And many more coming soon...
